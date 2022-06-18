@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ocaranza/Documentos/C++/CMake_tutorial/main.cpp
+src/utils.hpp
+/home/ocaranza/Documentos/C++/CMake_tutorial/src/utils.hpp
+string
+-
+iostream
+-
+
+/home/ocaranza/Documentos/C++/CMake_tutorial/src/utils.hpp
+iostream
+-
+string
+-
+

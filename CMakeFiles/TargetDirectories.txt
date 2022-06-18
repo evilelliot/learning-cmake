@@ -1,0 +1,3 @@
+/home/ocaranza/Documentos/C++/CMake_tutorial/CMakeFiles/rebuild_cache.dir
+/home/ocaranza/Documentos/C++/CMake_tutorial/CMakeFiles/edit_cache.dir
+/home/ocaranza/Documentos/C++/CMake_tutorial/CMakeFiles/demo.dir
